@@ -15,11 +15,9 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=chrolloacb@gmail.com"/>
   </a>
 </div>
-
 <br>
 
 ---
-
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurcorreiabrigido&show_icons=true&theme=tokyonight&include_all_commits=true"/>
