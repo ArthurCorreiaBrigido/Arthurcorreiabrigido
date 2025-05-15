@@ -1,4 +1,4 @@
-# Hello, there 👋
+## Hello, there 👋
 
 - 🧩 I am a problem solving enthusiast;
 - 👨🏻‍💻 I'm a Specialist in Data Science and Analytics;
