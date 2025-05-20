@@ -19,7 +19,7 @@
 
 ---
 
-### 🤖 Know-Hows
+## 🤖 Know-Hows
 
 <img
   align="left"
@@ -49,7 +49,7 @@
   align="left"
   alt="PANDAS"
   title="PANDAS"
-  width="40px"
+  width="50px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
@@ -57,7 +57,7 @@
   align="left"
   alt="SCIKITLEARN"
   title="SCIKITLEARN"
-  width="40px"
+  width="50px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 
@@ -81,7 +81,7 @@
   align="left"
   alt="SQLALCHEMY"
   title="SQLALCHEMY"
-  width="40px"
+  width="50px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
 
