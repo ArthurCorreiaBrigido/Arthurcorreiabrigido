@@ -19,6 +19,82 @@
 
 ---
 
+### 🤖 Know-Hows
+
+<img
+  align="left"
+  alt="PYTHON"
+  title="PYTHON"
+  width="30px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img 
+  align="left"
+  alt="JAVA"
+  title="JAVA"
+  width="30px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+
+<img 
+  align="left"
+  alt="SQLITE"
+  title="SQLITE"
+  width="30px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+
+<img 
+  align="left"
+  alt="PANDAS"
+  title="PANDAS"
+  width="30px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
+<img 
+  align="left"
+  alt="SCIKITLEARN"
+  title="SCIKITLEARN"
+  width="30px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-plain.svg" />
+
+<img 
+  align="left"
+  alt="MATPLOTLIB"
+  title="MATPLOTLIB"
+  width="30px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+
+<img 
+  align="left"
+  alt="NUMPY"
+  title="NUMPY"
+  width="30px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+
+<img 
+  align="left"
+  alt="SQLALCHEMY"
+  title="SQLALCHEMY"
+  width="30px"
+  style="padding-right:10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+
+  <img 
+  align="left"
+  alt="GIT"
+  title="GIT"
+  width="30px"
+  style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+---
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurcorreiabrigido&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCorreiaBrigido&layout=compact&langs_count=7&theme=tokyonight"/>
