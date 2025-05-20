@@ -25,7 +25,7 @@
   align="left"
   alt="PYTHON"
   title="PYTHON"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -33,7 +33,7 @@
   align="left"
   alt="JAVA"
   title="JAVA"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
 
@@ -41,7 +41,7 @@
   align="left"
   alt="SQLITE"
   title="SQLITE"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
@@ -65,7 +65,7 @@
   align="left"
   alt="MATPLOTLIB"
   title="MATPLOTLIB"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 
@@ -73,7 +73,7 @@
   align="left"
   alt="NUMPY"
   title="NUMPY"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 
@@ -89,11 +89,14 @@
   align="left"
   alt="GIT"
   title="GIT"
-  width="30px"
+  width="40px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
----
+<br/>
+<br/>
+
+## 📊 Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurcorreiabrigido&show_icons=true&theme=tokyonight&include_all_commits=true"/>
