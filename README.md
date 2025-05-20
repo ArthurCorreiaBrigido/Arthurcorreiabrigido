@@ -26,7 +26,7 @@
   alt="PYTHON"
   title="PYTHON"
   width="30px"
-  style="padding-right:10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img 
@@ -34,7 +34,7 @@
   alt="JAVA"
   title="JAVA"
   width="30px"
-  style="padding-right:10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
 
 <img 
@@ -42,47 +42,47 @@
   alt="SQLITE"
   title="SQLITE"
   width="30px"
-  style="padding-right:10px;"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
 <img 
   align="left"
   alt="PANDAS"
   title="PANDAS"
-  width="30px"
-  style="padding-right:10px;"
+  width="40px"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
 <img 
   align="left"
   alt="SCIKITLEARN"
   title="SCIKITLEARN"
-  width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-plain.svg" />
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 
 <img 
   align="left"
   alt="MATPLOTLIB"
   title="MATPLOTLIB"
   width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 
 <img 
   align="left"
   alt="NUMPY"
   title="NUMPY"
   width="30px"
-  style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 
 <img 
   align="left"
   alt="SQLALCHEMY"
   title="SQLALCHEMY"
-  width="30px"
-  style="padding-right:10px;"
+  width="40px"
+  style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
 
   <img 
@@ -90,8 +90,8 @@
   alt="GIT"
   title="GIT"
   width="30px"
-  style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 ---
 
