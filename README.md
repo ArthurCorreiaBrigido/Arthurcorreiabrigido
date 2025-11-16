@@ -1,6 +1,6 @@
 ## Hello, there 👋
 
-- 🧩 I am a problem solving enthusiast;
+- 🧩 I'm a problem solving enthusiast;
 - 👨🏻‍💻 I'm a Specialist in Data Science and Analytics;
 - 🌱 Bachelor's degree in Computer Science at [@PUCPR](https://www.pucpr.br);
 - 🧠 My main interests are Probability & Statistics;
