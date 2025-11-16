@@ -3,7 +3,7 @@
 - 🧩 I am a problem solving enthusiast;
 - 👨🏻‍💻 I'm a Specialist in Data Science and Analytics;
 - 🌱 Bachelor's degree in Computer Science at [@PUCPR](https://www.pucpr.br);
-- 🧠 My main interests are Mathematics and Machine Learning;
+- 🧠 My main interests are Probability & Statistics;
 - 📫 You can reach me through my [Linkedin](https://www.linkedin.com/in/arthurcorreiabrigido/) or my e-mail — chrolloacb@gmail.com
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 <br>
 
-## 🤖 Know-Hows
+## 🤖 Technical Knowledge
 
 <img
   align="left"
