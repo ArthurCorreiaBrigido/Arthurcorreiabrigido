@@ -3,7 +3,6 @@
 - I'm a problem solver;
 - I'm a Specialist in Data Science and Analytics;
 - Bachelor's degree in Computer Science at [@PUCPR](https://www.pucpr.br);
-- My main interests are Probability & Statistics;
 - Contact: [Linkedin](https://www.linkedin.com/in/arthurcorreiabrigido/), e-mail — chrolloacb@gmail.com
 
 <div align="center">
