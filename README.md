@@ -1,7 +1,6 @@
 ## Hello, there 👋
 
-- I'm a problem solver;
-- I'm a Specialist in Data Science and Analytics;
+- I'm a Specialist in Data Science, Data Analytics and solving problems;
 - Bachelor's degree in Computer Science at [@PUCPR](https://www.pucpr.br);
 - Contact: [Linkedin](https://www.linkedin.com/in/arthurcorreiabrigido/), e-mail — chrolloacb@gmail.com
 
